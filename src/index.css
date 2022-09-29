@@ -45,9 +45,9 @@ a {
 #theme {
   display: none;
 }
-#theme:checked ~ .App {
+/* #theme:checked ~ .App {
   filter: invert(1);
-}
+} */
 
 .App {
   width: 100%;
